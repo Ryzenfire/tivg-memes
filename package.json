@@ -1,0 +1,25 @@
+{
+  "name": "tivg-memes",
+  "version": "1.0.0",
+  "description": "A simple meme library updated Frequently ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryzenfire/tivg-memes"
+  },
+  "keywords": [
+    "memes",
+    "godly memes",
+    "dank",
+    "random",
+    "funny"
+  ],
+  "author": "Tivg",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
+}
